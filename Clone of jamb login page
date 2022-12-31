@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Jamb CAPS</title><img src="jamb.jpg" width="35px" height="45px" alt="jamb logo"><Meta name="view port" width="device-width, initial scale= 1"><link ="style.css" rel="stylesheet" /><link href="style.css" rel="stylesheet"><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css"><link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"> <script>window.alert("About to view I T jamb portal")</script><form style="max-width:300px;margin:auto">
+	
+	<style>
+		.input-icon i {
+			position: absolute;
+		}
+		
+		.input-icon {
+			width: 100%;
+			margin-bottom: 10px;
+		}
+		
+		.icon {
+			padding: 10px;
+			color: green;
+			min-width: 50px;
+			text-align: center;margin-left:0.5px;
+		}
+		
+		.input-field {
+			width: 70%;
+			padding: 5px;
+			text-align: center;border-left-color:green;}
+		}
+		button{padding-right:350px;margin-right:50px}
+	</style>
+		
+ <img src="jamb.jpg" /><br /><p style="color:white;"> <strong>Central Admission Processing System <strong><big>|CAPS</big></strong></strong></p> </head><br /> 
+	<body bgcolor="green" align="center"> <div id="nav">
+		
+	<h1> login to your account</h1>
+   
+		   <form method="GET" action="https://www.jamb.gov.ng">
+	 <form style="max-width:300px;margin:auto">
+   <div></div>  <div class="input-icon"> <i class="fa fa-user icon"></i><input class="input-field" required name="text" placeholder="enter your username"username="jamb reg no text-align="center"><br /><br />
+  <i class="fa fa-lock icon"></i><input class="input-field" type="password" required name="password"  placeholder="password"   maxlength="10digit"></div>
+ <br />
+ <input  type="checkbox" style="color:white;padding-left:20px;">Remember me<checkbox/>
+  <button class="w3-button w3-white w3-border w3-border-green w3-hover-green w3-round" onclick=window.open('https://portal.jamb.gov.ng/eFacility_/Home ') style="color:blue;">login
+</button><br />
+<p style="color:green;">forgot your password?</p>
+ <p> click <a href="http://www.jamb.gov.ng/home">here</a>to reset your password  </p>
+<audio src="audio.mp3" type="audio/mpeg">
+   <script>document.write("Jamb user login page")</script>  
+	</body>
+</html>
