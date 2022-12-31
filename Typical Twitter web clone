@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Page Title</title><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css"><link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css"><script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+	</head><style>
+		.input-icon i {
+			position: absolute;
+		}
+		
+		.input-icon {
+			width: 100%;
+			margin-bottom: 10px;
+		}
+		
+		.icon {
+		   padding:10px;
+			color:blue;
+			min-width: 50px;
+			text-align: center;margin-left:0.5px;
+		}
+		
+		.input-field {
+			width: 80%;padding:5px;
+			
+			text-align: center; ;margin:center;background-color:black;}
+	 border:white;   }
+		button{padding-right:;margin-right:20px;}
+		
+		
+		
+		
+		   .input-icon i {
+			position: absolute;
+		}
+		
+		.input-icon {
+			width: 100%;
+			margin-bottom: 10px;
+		}
+		
+		.icon {
+			padding: 10px;
+			color: green;
+			min-width: 50px;
+			text-align: center;margin-left:0.5px;
+		}
+		
+		.input-field {
+			width: 70%;
+			padding: 5px;
+			text-align: center;background-color:black;border-color:white;}
+		}
+		button{padding-right:350px;margin-right:50px
+	</style>
+	<body>
+	<div class="icon"><div class="input-icon">
+  <center>  <i class="fa fa-twitter icon" style="color:dodgerblue;margin-right:auto;margin-left:auto;"></i></div>
+ <br /> <div> <p style="color:white;align:center;"><strong>Sign in to Twitter</strong></p></div>
+<div class="input-icon"><i class="fa fa-google icon" style="color:rgb(255,200,250);"></i><button type="input-icon" class="w3-button w3-white w3-round-xxlarge  w3-hover-green w3-border w3-border-blue" onclick=window.open('http://www.gmail.com')>sign in with google</button></i></div><br />
+		
+		<div class="input-icon"><i class="fa fa-apple icon" style="color:dodgerblue;"></i><button type="input-icon" class="w3-button w3-white w3-round-xxlarge  w3-hover-green w3-border w3-border-blue" onclick=window.open('http://www.apple.com')>sign in with Apple</button></i></div>
+  <hr> <p style="color:white; margin:center;">or</p>
+ <div> <input class="input-field" type="text" placeholder="Enter your username" required="username" style="color:white;"><br /><br /><br />
+  <div class="input-icon"><i class="fa fa-arrow icon" style="color:dodgerblue;"></i><button type="input-icon" class="w3-button w3-white w3-round-xxlarge  w3-hover-green w3-border w3-border-blue" onclick=window.open('https://codepen.io')><strong>Next</strong></button></div><br />
+ 
+ <div class="input-icon"><i class="fa fa-lock icon" style="color:dodgerblue;"></i><button type="input-icon" style="color:white;" class="w3-button w3-wblack w3-round-xxlarge  w3-hover-green w3-border w3-border-white" onclick=window.open('https://codepen.io/settings')><strong>Forget password?</strong></button></div>
+ <p style="color:grey;">Dont have an account?<a href="
+ https://codepen.io/accounts/signup/user/freestyle=" style="color:dodgerblue;">Signup</p>
+		
+		
+	</body>
+</html>
