@@ -1,0 +1,19 @@
+
+body {
+			background-color: #000000;
+			margin: 0;
+		}
+		#textC{
+			color: #1de18d;
+			font-family: Consolas;
+			font-size:10px;
+		}
+		#textM{
+			margin-left:0.7cm;
+			margin-right: 3cm;
+
+			color: #1de18d;
+			text-shadow: 2px 10px 2px #81ec72;
+			font-family: Consolas;
+			font-size:10px;
+		}
